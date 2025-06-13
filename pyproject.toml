@@ -1,7 +1,7 @@
 [project]
 name = "mygit"
-version = "0.1.0"
-description = "Add your description here"
+version = "0.1.1"
+description = "WINGs 2025/06/13 Git/GitHub seminar"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = []
